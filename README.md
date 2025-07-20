@@ -24,7 +24,7 @@
 
 <a href="https://www.linkedin.com/in/gana-ellaban-0410892b4"><img src="https://img.shields.io/badge/-Gana%20Ellaban-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ganna_ellaban"><img src="https://img.shields.io/badge/-Gana%20Ellaban-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="mailto:ganaellaban235@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ellabangana235@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 
